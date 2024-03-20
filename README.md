@@ -1,3 +1,6 @@
+Use the starters in github.com/mastrogpt and forget this.
+
+
 # Nuvolaris MastroGPT
 
 Build easily AI applications with MastroGPT
